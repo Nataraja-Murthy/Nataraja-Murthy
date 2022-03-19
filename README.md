@@ -1,4 +1,4 @@
-# aboutOwner
+# aboutCoder
 
 👋 Hi, I’m @Nataraja-Murthy
 
