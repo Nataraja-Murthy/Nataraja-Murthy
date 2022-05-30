@@ -1,9 +1,13 @@
 # aboutCoder
 
-👋 Hi, I’m @Nataraja-Murthy
+👋 Hi, This is @Nataraja-Murthy
 
-Learning.....
-
+👀 Interested in ...
+Coding
+🌱 Currently learning ...
+SpringBoot
+💞️ Looking to collaborate on ...
+*****
 
 📫 How to reach me ...
 natraja.murthy@gmail.com
