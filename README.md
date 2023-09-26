@@ -11,3 +11,5 @@ SpringBoot
 
 📫 How to reach me ...
 https://natarajamurthy.github.io/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nataraja-Murthy&show_icons=true&theme=dark)
