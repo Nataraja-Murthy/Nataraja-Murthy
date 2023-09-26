@@ -12,7 +12,7 @@ SpringBoot
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nataraja-Murthy&show_icons=true&theme=dark)
 
 *****
-## 🔗 Know more about me 
+## 🔗 Know more about:
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://natarajamurthy.github.io/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:natraja.murthy@gmail.com)
